@@ -1,8 +1,0 @@
-2024-03-13 12:02:37,673 - INFO - Database created successfully
-2024-03-13 12:02:37,679 - INFO - Table 'census' created successfully
-2024-03-13 12:02:37,715 - INFO - Data from csv_files/census.csv ingested into table 'census' successfully
-2024-03-13 12:02:37,715 - INFO - ETL pipeline completed successfully
-2024-03-13 13:32:07,072 - INFO - Database created successfully
-2024-03-13 13:32:07,073 - INFO - Table 'census' created successfully
-2024-03-13 13:32:07,116 - INFO - Data from csv_files/census.csv ingested into table 'census' successfully
-2024-03-13 13:32:07,116 - INFO - ETL pipeline completed successfully
